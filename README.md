@@ -32,7 +32,7 @@ Ele organiza automaticamente os arquivos em subpastas baseadas em suas extensõe
     * Navegue até a pasta onde você salvou o script usando o comando `cd`.
     * Execute o script com o comando:
         ```bash
-        python nome_do_script.py
+        python organizador.py
         ```
         (Substitua `nome_do_script.py` pelo nome real do arquivo, ex: `organizador_downloads_gui.py`).
 
