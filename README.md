@@ -24,7 +24,7 @@ Ele organiza automaticamente os arquivos em subpastas baseadas em suas extensõe
     * A biblioteca `tkinter` (geralmente já vem com o Python no Windows e em muitas distribuições Linux/Mac. Se não vier, pode ser necessário instalar `python3-tk` ou similar).
 
 2.  **Baixar o Script:**
-    * Clone este repositório: `git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git`
+    * Clone este repositório: `git clone https://github.com/rodineyw/organizador.git`
     * Ou baixe o arquivo `.py` diretamente.
 
 3.  **Executar:**
@@ -34,7 +34,6 @@ Ele organiza automaticamente os arquivos em subpastas baseadas em suas extensõe
         ```bash
         python organizador.py
         ```
-        (Substitua `nome_do_script.py` pelo nome real do arquivo, ex: `organizador_downloads_gui.py`).
 
 4.  **Selecionar a Pasta:**
     * Uma janela do sistema operacional será aberta.
